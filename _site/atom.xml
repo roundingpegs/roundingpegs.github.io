@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rounding Pegs</title>
+ <link href="http://blog.roundingpegs.com/atom.xml" rel="self"/>
+ <link href="http://blog.roundingpegs.com/"/>
+ <updated>2015-04-07T15:48:38-05:00</updated>
+ <id>http://blog.roundingpegs.com</id>
+ <author>
+   <name>Brian Marick</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>An Idea for a Company</title>
+   <link href="http://blog.roundingpegs.com/2015/04/07/introduction/"/>
+   <updated>2015-04-07T00:00:00-05:00</updated>
+   <id>http://blog.roundingpegs.com/2015/04/07/introduction</id>
+   <content type="html"></content>
+ </entry>
+ 
+
+</feed>
